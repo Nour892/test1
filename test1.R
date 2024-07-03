@@ -49,4 +49,3 @@ center_vector <- function(vec) {
 correlation_matrix <- function(df) {
   return(cor(df))
 }
-print("hello")
